@@ -1,0 +1,23 @@
+
+body{
+    
+    background-image: url(https://thumbs.dreamstime.com/b/businessman-drawing-virtual-screen-payroll-concept-89392559.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+}
+.jan{
+    position: relative;
+    top: 150px;
+    left: 320px;
+    width: 800px;
+    background-color: cyan;
+}
+.ja{
+    position: relative;
+    top: 120px;
+    left: 320px;
+    width: 800px;
+    background-color: beige;
+}

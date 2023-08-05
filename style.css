@@ -1,0 +1,102 @@
+*{
+   margin: 0;
+   padding: 0;
+
+
+}
+.wrapper{
+    width: 1170px;
+    margin: auto;
+
+}
+header{
+    background: url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2l0eSUyMGJ1aWxkZWluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+      
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+.nav-area{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+
+}
+.nav-area li{
+    display: inline-block;
+}
+.nav-area li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: poppins;
+    font-size: 14px;
+
+
+}
+
+.nav-area li a:hover{
+    background: #fff;
+    color: #333;
+
+}
+.logo img{
+  width: 100px;
+  float: left;
+  height: auto;
+
+
+}
+
+.welcome-text{
+position: absolute;
+width: 600px;
+height: 300px;
+margin: 20% 30%;
+text-align: center;
+
+
+}
+.welcome-text h1{
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 60px;
+
+}
+.welcome-text a{
+    border: 1px solid #fff;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    display: inline-block;
+    color: #fff;
+
+}
+.welcome-text a:hover{
+    background: #fff;
+    color: #333;
+
+}
+
+.button{
+
+position: relative; 
+top: 10px;
+text-align: center;
+width: 100px;
+
+padding: 30px; 
+font-size: 30px;
+color: black;
+font-family: poppins;
+font-weight: 200;
+border: 5px solid #333;
+ 
+Letter-spacing: 2px; 
+cursor: pointer;
+
+}
